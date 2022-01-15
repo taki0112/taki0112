@@ -1,5 +1,6 @@
-### Junho Kim @ NAVER AI Lab
-[Curriculum Vitae](bit.ly/jhkim_resume)
+### [Junho Kim](bit.ly/jhkim_resume) @ NAVER AI Lab
+<img src="./profile_black.jpeg" width = '237px' height = '333px'>
+
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
