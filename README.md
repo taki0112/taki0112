@@ -1,6 +1,11 @@
-### Hi there 👋
+### Junho Kim @ NAVER AI Lab
+[Curriculum Vitae](bit.ly/jhkim_resume)
+
+![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
 
 <!--
+### Hi there 👋
 **taki0112/taki0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
