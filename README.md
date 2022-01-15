@@ -1,11 +1,11 @@
 ### [Junho Kim](bit.ly/jhkim_resume) @ NAVER AI Lab
-<img src="./profile_black.jpeg" width = '237px' height = '333px'>
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
 
 <!--
+<img src="./profile_black.jpeg" width = '237px' height = '333px'>
 ### Hi there 👋
 **taki0112/taki0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
