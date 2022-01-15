@@ -1,4 +1,5 @@
-### [Junho Kim](bit.ly/jhkim_resume) @ NAVER AI Lab
+### [Junho Kim](bit.ly/jhkim_resume) 
+#### Working at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
