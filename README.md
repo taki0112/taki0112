@@ -5,6 +5,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
 
+## Recent paper implementations
+* *[Toward Spatially Unbiased Generative Models](https://github.com/taki0112/Toward_spatial_unbiased-Tensorflow)* **`ICCV 2021`**
 ## Publications
 * *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`Under review`**
 * *Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks* **`Under review`**
