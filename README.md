@@ -3,7 +3,6 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
 
 ## Recent paper implementations
 * *[Toward Spatially Unbiased Generative Models](https://github.com/taki0112/Toward_spatial_unbiased-Tensorflow)* **`ICCV 2021`**
@@ -15,6 +14,7 @@
 * *[U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/abs/1907.10830)* **`ICLR 2020`**
 
 <!--
+![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
 <img src="./profile_black.jpeg" width = '237px' height = '333px'>
 ### Hi there 👋
 **taki0112/taki0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
