@@ -4,7 +4,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
-## Recent paper implementations
+## Recent implementations
 * *[Toward Spatially Unbiased Generative Models](https://github.com/taki0112/Toward_spatial_unbiased-Tensorflow)* **`ICCV 2021`**
 * *[Adaptive Convolutions for Structure-Aware Style Transfer](https://github.com/taki0112/AdaConv-Tensorflow)* **`CVPR 2021`**
 ## Publications
