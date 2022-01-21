@@ -9,10 +9,10 @@
 * *[Adaptive Convolutions for Structure-Aware Style Transfer](https://github.com/taki0112/AdaConv-Tensorflow)* **`CVPR 2021`**
 
 ## Recent accepted papers
-* ⚡ *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9)* **`ICLR 2022`**
+* 🔥 *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9)* **`ICLR 2022`**
 
 ## Publications
-* *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`Under review`**
+* ⚡ *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`Under review`**
 * *Disentangling and Diversifying Text-driven Image Manipulation via Cross-modal Dissection and Integration* **`Under review`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9)* **`ICLR 2022`**
 * *[Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754)* **`CVPR 2021`**
