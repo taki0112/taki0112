@@ -5,6 +5,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
 ## Recent implementations
+* 🔥 *[Image Generators with Conditionally-Independent Pixel Synthesis](https://github.com/taki0112/CIPS-Tensorflow)* **`CVPR 2021 Oral`**
 * 🔥 *[Toward Spatially Unbiased Generative Models](https://github.com/taki0112/Toward_spatial_unbiased-Tensorflow)* **`ICCV 2021`**
 * *[Adaptive Convolutions for Structure-Aware Style Transfer](https://github.com/taki0112/AdaConv-Tensorflow)* **`CVPR 2021`**
 
