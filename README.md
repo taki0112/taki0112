@@ -17,8 +17,8 @@
 * *Disentangling and Diversifying Text-driven Image Manipulation via Cross-modal Dissection and Integration* **`Under review`**
 * ⚡ *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`CVPR 2022`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
-* *[Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754)* **`CVPR 2021`**
-* ⭐ *[U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/abs/1907.10830)* **`ICLR 2020`**
+* *[Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://github.com/naver-ai/StyleMapGAN)* **`CVPR 2021`**
+* ⭐ *[U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://github.com/taki0112/UGATIT)* **`ICLR 2020`**
 
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=taki0112)
