@@ -13,7 +13,7 @@
 * 🔥 *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
 
 ## Publications
-* ⚡ *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`Under review`**
+* ⚡ *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`CVPR 2022`**
 * *Disentangling and Diversifying Text-driven Image Manipulation via Cross-modal Dissection and Integration* **`Under review`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
 * *[Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754)* **`CVPR 2021`**
