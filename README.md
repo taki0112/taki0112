@@ -10,7 +10,7 @@
 * *[Adaptive Convolutions for Structure-Aware Style Transfer](https://github.com/taki0112/AdaConv-Tensorflow)* **`CVPR 2021`**
 
 ## Recent accepted papers
-* 🔥 *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
+* 🔥 *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`CVPR 2022`**
 
 ## Publications
 * ⚡ *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`CVPR 2022`**
