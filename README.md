@@ -5,9 +5,9 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
 ## Recent implementations
-* 🔥 *[CLIP-Tensorflow](https://github.com/taki0112/CLIP-Tensorflow)*
+* 🔥 *[Diffusion-Tensorflow](https://github.com/taki0112/Diffusion-Tensorflow)*
+* *[CLIP-Tensorflow](https://github.com/taki0112/CLIP-Tensorflow)*
 * *[Vision Transformer Cookbook](https://github.com/taki0112/vit-tensorflow)*
-* *[Image Generators with Conditionally-Independent Pixel Synthesis](https://github.com/taki0112/CIPS-Tensorflow)* **`CVPR 2021 Oral`**
 
 ## Recent accepted papers
 * 🔥 *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
