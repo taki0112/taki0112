@@ -15,7 +15,7 @@
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
 
 ## Publications
-* *Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images* **`Under review`**
+* *[Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)* **`Under review`**
 * *Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance* **`Under review`**
 * ⚡ *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
 * *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
