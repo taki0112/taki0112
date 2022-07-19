@@ -10,14 +10,15 @@
 * *[Vision Transformer Cookbook](https://github.com/taki0112/vit-tensorflow)*
 
 ## Recent accepted papers
-* 🔥 *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
+* 🔥 *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
+* *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
 
 ## Publications
 * *Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images* **`Under review`**
 * *Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance* **`Under review`**
-* ⚡ *Generator Knows What Discriminator Should Learn in Unconditional GANs* **`ECCV 2022`**
-* *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)* **`CVPR 2022`**
+* ⚡ *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
+* *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
 * *[Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://github.com/naver-ai/StyleMapGAN)* **`CVPR 2021`**
 * ⭐ *[U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://github.com/taki0112/UGATIT)* **`ICLR 2020`**
