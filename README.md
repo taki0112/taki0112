@@ -5,8 +5,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
 ## Recent implementations
-* 🔥 *[Diffusion-Tensorflow](https://github.com/taki0112/Diffusion-Tensorflow)*
-* *[CLIP-Tensorflow](https://github.com/taki0112/CLIP-Tensorflow)*
+* 🔥 *[Denoising-Diffusion-GANs](https://github.com/taki0112/denoising-diffusion-gan-Tensorflow)*
+* *[Diffusion-Tensorflow](https://github.com/taki0112/Diffusion-Tensorflow)*
 * *[Vision Transformer Cookbook](https://github.com/taki0112/vit-tensorflow)*
 
 ## Recent accepted papers
