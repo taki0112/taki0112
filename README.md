@@ -5,18 +5,19 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
 ## Recent implementations
-* 🔥 *[Denoising-Diffusion-GANs](https://github.com/taki0112/denoising-diffusion-gan-Tensorflow)*
-* *[Diffusion-Tensorflow](https://github.com/taki0112/Diffusion-Tensorflow)*
+* 🔥 *[tf-torch-template](https://github.com/taki0112/tf-torch-template)*
+* *[Denoising-Diffusion-GANs](https://github.com/taki0112/denoising-diffusion-gan-Tensorflow)*
 * *[Vision Transformer Cookbook](https://github.com/taki0112/vit-tensorflow)*
 
 ## Recent accepted papers
-* 🔥 *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
-* *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
-* *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
+* 🔥 *[Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)* **`ICLR 2023`, `Spotlight`**
+* 🔥 *[Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance](https://openreview.net/forum?id=47B_ctC4pJ)* **`ICLR 2023`**
+* *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
+
 
 ## Publications
-* ⚡ *[Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)* **`Under review`**
-* *Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance* **`Under review`**
+* ⚡ *[Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)* **`ICLR 2023`, `Spotlight`**
+* *[Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance](https://openreview.net/forum?id=47B_ctC4pJ)* **`ICLR 2023`**
 * *[Generator Knows What Discriminator Should Learn in Unconditional GANs](https://github.com/naver-ai/GGDR)* **`ECCV 2022`**
 * *[Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://github.com/naver-ai/FSMR)* **`CVPR 2022`**
 * *[Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://sihyun-yu.github.io/digan/)* **`ICLR 2022`**
