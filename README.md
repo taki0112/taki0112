@@ -12,7 +12,7 @@
 ## Recent accepted papers
 * 🔥 *[Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models](https://arxiv.org/abs/2305.15779)* **`CVPRW 2023`, `Oral`**
 * *[Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization](https://arxiv.org/abs/2305.19135)* **`CVPRW 2023`**
-* *[Rarity Metric : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)* **`ICLR 2023`, `Spotlight`**
+* *[Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding](https://arxiv.org/abs/2212.02802)* **`CVPR 2023`**
 
 
 
