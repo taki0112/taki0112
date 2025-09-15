@@ -9,7 +9,7 @@
 
 
 ## Selected Publications
-* ⭐ *[Visual Style Prompting with Swapping Self-Attention](https://arxiv.org/abs/2402.12974)* **`CVPRW 2024 Best Paper`** **`ICCV 2025`**
+* ⭐ *[StyleKeeper: Prevent content leakage via a negative visual query guidance](https://arxiv.org/abs/2402.12974)* **`CVPRW 2024 Best Paper`** **`ICCV 2025`**
 * ⭐ *[Enhancing Creative Generation on Stable Diffusion-based Models](https://arxiv.org/abs/2503.23538)* **`CVPR 2025`**
 * ⭐ *[D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification](https://arxiv.org/abs/2411.11087)* **`ICDM 2024`**
 * ⭐ *[Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models](https://arxiv.org/abs/2305.15779)* **`CVPRW 2023 Oral`**
