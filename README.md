@@ -1,4 +1,4 @@
-### [Junho Kim](http://bit.ly/jhkim_resume)
+### [Junho Kim](taki0112.notion.site)
 #### 👉 Research Scientist at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic)
 
 
