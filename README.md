@@ -5,9 +5,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=taki0112&show_icons=true)
 
 ## Recent implementations
-* 🔥 *[tf-torch-template](https://github.com/taki0112/tf-torch-template)*
-* *[Denoising-Diffusion-GANs](https://github.com/taki0112/denoising-diffusion-gan-Tensorflow)*
-* *[Vision Transformer Cookbook](https://github.com/taki0112/vit-tensorflow)*
+* 🔥 *[diffusion-pytorch](https://github.com/taki0112/diffusion-pytorch)*
 
 
 ## Selected Publications
