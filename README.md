@@ -1,4 +1,4 @@
-### [Junho Kim](taki0112.notion.site)
+### [Junho Kim](https://taki0112.notion.site/)
 #### 👉 Research Scientist at [NAVER AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic)
 
 
